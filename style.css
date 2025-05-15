@@ -1,0 +1,104 @@
+.cor-navbar-fundo{
+    background: linear-gradient(rgb(235, 202, 55) , yellow);
+}
+
+.texto-dogao-logo{
+    color: rgb(211, 18, 18);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    font-weight: 1000;
+  -webkit-text-stroke-width:1.5px;
+  -webkit-text-stroke-color: rgb(255, 255, 255);
+}
+.texto-dogao-logo2{
+    color: rgb(18, 140, 211);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+    font-weight: 1000;
+  -webkit-text-stroke-width:1.5px;
+  -webkit-text-stroke-color: rgb(194, 34, 34);
+}
+.texto-dogao-logo3{
+    color: rgb(211, 150, 18);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+    font-weight: 1000;
+  -webkit-text-stroke-width:1.5px;
+  -webkit-text-stroke-color: rgb(194, 34, 34);
+}
+.texto-dogao-logo4{
+    color: rgb(211, 198, 18);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+    font-weight: 1000;
+  -webkit-text-stroke-width:1.5px;
+  -webkit-text-stroke-color: rgb(194, 34, 34);
+}
+.texto-dogao-logo5{
+    color: rgb(111, 211, 18);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+    font-weight: 1000;
+  -webkit-text-stroke-width:1.5px;
+  -webkit-text-stroke-color: rgb(194, 34, 34);
+}
+.texto-dogao-logo6{
+    color: rgb(214, 34, 199);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+    font-weight: 1000;
+  -webkit-text-stroke-width:1.5px;
+  -webkit-text-stroke-color: rgb(194, 34, 34);
+}
+.texto-dogao-logo7{
+    color: rgb(255, 128, 206);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+    font-weight: 1000;
+  -webkit-text-stroke-width:1.5px;
+  -webkit-text-stroke-color: rgb(194, 34, 34);
+}
+
+.logo-dogao-navbar{
+    height: 100px;
+    border-radius: 20px;
+}
+
+.cor-botao-opcoes{
+    background-color: rgb(211, 18, 18);
+}
+
+.cor-fonte-opcoes-navbar{
+    color: rgb(255, 230, 0);
+}
+
+.fundo-inicio-opcoes-navbar{
+    background-color: rgba(255, 255, 255, 0.534);
+}
+
+.tamanho-img{
+    height: 600px;
+    width: 100%;
+}
+
+.gradiente-bar{
+    background: linear-gradient(to top,white , white,white, yellow) ;
+}
+
+.img-bordas{
+    border-radius: 40px;
+    border-radius: 30px;
+}
+
+.texto-section-heros-red{
+    color: rgb(255, 0, 0);
+}
+
+.texto-section-heros-yellow{
+    color: rgb(34, 34, 34);
+}
+
+.cor-botao-contato{
+    background-color: red;
+    color: white;
+}
